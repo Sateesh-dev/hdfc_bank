@@ -1,0 +1,6 @@
+Loan details:
+
+Personal Loans
+Business Loans
+Car Loans
+Housing Loans
